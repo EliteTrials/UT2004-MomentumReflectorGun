@@ -1,0 +1,1 @@
+class MomentumReflectorAltFire extends SniperZoom;
