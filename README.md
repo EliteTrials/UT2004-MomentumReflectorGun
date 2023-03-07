@@ -10,3 +10,7 @@ Ditch the **LinkedGun** for the **MRG**, no more pain and suffering, but experie
 - [x] Cyan color
 - [ ] Heal you
 - [x] Acrophobia
+
+## Credits
+
+A replication of [Quake III DeFRaG](https://youtu.be/n4StqGkRcZo?t=873)
